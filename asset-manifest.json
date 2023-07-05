@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/KickConnect/static/css/main.5f896694.css",
+    "main.js": "/KickConnect/static/js/main.7a8b3b62.js",
+    "static/js/787.df72c0a4.chunk.js": "/KickConnect/static/js/787.df72c0a4.chunk.js",
+    "static/media/newbalancebrand.webp": "/KickConnect/static/media/newbalancebrand.20c817963016acb62d37.webp",
+    "static/media/jordan4promo.webp": "/KickConnect/static/media/jordan4promo.ef0d2bda034306f964fd.webp",
+    "static/media/promotest.jpg": "/KickConnect/static/media/promotest.a6b46745370f194e360a.jpg",
+    "static/media/nikebrand.webp": "/KickConnect/static/media/nikebrand.396c0278513840650e77.webp",
+    "static/media/adidasbrand.webp": "/KickConnect/static/media/adidasbrand.d0c8f0658fc91498215c.webp",
+    "static/media/jordanbrand.webp": "/KickConnect/static/media/jordanbrand.0602afdbb460a147847e.webp",
+    "index.html": "/KickConnect/index.html",
+    "main.5f896694.css.map": "/KickConnect/static/css/main.5f896694.css.map",
+    "main.7a8b3b62.js.map": "/KickConnect/static/js/main.7a8b3b62.js.map",
+    "787.df72c0a4.chunk.js.map": "/KickConnect/static/js/787.df72c0a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f896694.css",
+    "static/js/main.7a8b3b62.js"
+  ]
+}
