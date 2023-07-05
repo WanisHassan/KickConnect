@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/kickconnect" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/browse" element={<Browse />} />
         <Route path="/login" element={<Login />} />
         <Route path="/aboutus" element={<AboutUs />} />
